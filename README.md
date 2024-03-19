@@ -30,6 +30,24 @@ Por defecto el servidor está corriendo en el puerto 3000
 npm run start
 ```
 
+## Ejemplo de peticiones HTTP para usar la API
+
+### Método GET (Obtener usuarios)
+
+![Texto alternativo](images/get-usuarios.png)
+
+### Método POST (Crear usuario)
+
+![Texto alternativo](<images/crear-usuario(post).png>)
+
+### Método PUT (Editar usuario)
+
+![Texto alternativo](<images/actualizar-usuario(put).png>)
+
+### Método DELETE (Eliminar usuario)
+
+![Texto alternativo](<images/eliminar-usuario(delete).png>)
+
 ## Contribución
 
 ¡Las contribuciones son bienvenidas! Si encuentra algún problema o tiene alguna sugerencia, no dude en abrir un problema o enviar un PR.
