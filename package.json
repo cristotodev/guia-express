@@ -1,13 +1,13 @@
 {
-  "name": "api-rest-node",
+  "name": "api-rest-node-express",
   "version": "1.0.0",
-  "description": "",
+  "description": "Ejemplo de API Rest con Express y Nodejs",
   "main": "main.js",
   "scripts": {
     "start": "node src/main.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Cristo Manuel Estévez Hernández",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.3"
